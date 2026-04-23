@@ -8,8 +8,8 @@ This is my solution to the Article Preview Component challenge on Frontend Mento
 
 ### Links
 
-* Solution URL: [Add your GitHub repo link here]
-* Live Site URL: [Add your live site link here]
+* Solution URL: [https://github.com/IrfanAnsari21/article-preview-component.git]
+* Live Site URL: [https://irfanansari21.github.io/article-preview-component/]
 
 ---
 
